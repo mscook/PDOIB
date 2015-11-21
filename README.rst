@@ -7,7 +7,7 @@ Example of how to extract data from Socrata and inject into RethinkDB (local ins
 Quick-start
 -----------
 
-Something like this:
+Something like this::
    
     $ # Install RethinkDB first
     $ pip install -r requirements.txt
